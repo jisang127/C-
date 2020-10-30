@@ -1,0 +1,11 @@
+C:\Users\kosta\source\repos\Pro01\Pro01\bin\Debug\Pro01.exe.config
+C:\Users\kosta\source\repos\Pro01\Pro01\bin\Debug\Pro01.exe
+C:\Users\kosta\source\repos\Pro01\Pro01\bin\Debug\Pro01.pdb
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.csprojAssemblyReference.cache
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.Properties.Resources.resources
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.csproj.GenerateResource.cache
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.csproj.CoreCompileInputs.cache
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.exe
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.pdb
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.FormTest1.resources
+C:\Users\kosta\source\repos\Pro01\Pro01\obj\Debug\Pro01.Form2.resources
